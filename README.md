@@ -1,4 +1,3 @@
 # README file relevant to all my obsidian files.
 
-This should be the description.
-And, another description.
+This is my first description.
